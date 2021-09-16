@@ -5,3 +5,17 @@
 #background{
         background-color: rgb(160, 160, 160);
 }
+#tartaglia{
+        width: 40%;
+        height: 70%;
+}
+.unorderedlists{
+        text-align: right; 
+}
+.liststyle{
+        font-size: 15pt;
+}
+#zhongli{
+        width: 40%;
+        height: 85%;
+}
