@@ -1,9 +1,6 @@
 body{
     background-color: #00000027 ;
 }
-#wallpaper{
-    width: 100%;
-}
 #welcome{
     font-size: 36pt; 
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -16,15 +13,8 @@ body{
 #husbando-day-header{
     font-size: 24pt;
     font-family: 'Times New Roman', Times, serif;
-    position: absolute;
-    top: 43%;
-    left: 2%;
 }
 #husbando-day-img{
-    width: 500x;
-    height: 500px;
-    position: absolute;
-    top: 50%;
-    border: 3px solid #000000;
+border: 4px solid #000000;
 
 }
