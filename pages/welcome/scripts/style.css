@@ -1,5 +1,10 @@
 body{
     background-color: #00000027 ;
+    border-width: 100%;
+    border: 10px solid #ffffff;
+}
+#wallpaper{
+    border: 10px solid #00000000;
 }
 #welcome{
     font-size: 36pt; 
@@ -11,10 +16,17 @@ body{
     transform: translate(-50%, -50%);
 }
 #husbando-day-header{
-    font-size: 24pt;
+    font-size: 22pt;
     font-family: 'Times New Roman', Times, serif;
+    border: 4px solid #000000;
+    width: 325px;
 }
 #husbando-day-img{
 border: 4px solid #000000;
 
+}
+#husbando-text{
+    font-size: 16pt;
+    border: 4px solid #000000;
+    width: 287px;
 }
