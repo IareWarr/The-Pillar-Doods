@@ -6,16 +6,28 @@
         background-color: rgb(160, 160, 160);
 }
 #tartaglia{
-        width: 40%;
-        height: 70%;
+        width: 50%;
+        height: 85%;
 }
 .unorderedlists{
         text-align: right; 
 }
 .liststyle{
-        font-size: 15pt;
+        font-size: 35pt;
 }
 #zhongli{
         width: 40%;
         height: 85%;
+}
+#kazuha{
+        width: 25%;
+        height: 85%;
+}
+#thoma{
+        width: 30%;
+        height: 85%;
+}
+#venti{
+        width: 25%;
+        height: 75%;
 }
