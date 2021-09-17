@@ -10,7 +10,10 @@
         height: 85%;
 }
 .unorderedlists{
-        text-align: right; 
+        border: 4px solid #000000;
+        padding: 100px;
+        text-align: justify;
+        width: 1000px;
 }
 .liststyle{
         font-size: 35pt;
@@ -54,4 +57,10 @@
 #caster{
         width: 25%;
         height: 65%;
+}
+.quotes{
+        border: 4px solid #000000;
+    padding: 10px;
+    text-align: left;
+    width: 1000px;
 }
