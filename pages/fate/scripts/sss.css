@@ -64,3 +64,10 @@
     text-align: left;
     width: 1000px;
 }
+#logo{
+        position: absolute;
+        bottom: 605px;
+        right: 1500px;
+        width: 500px; 
+        height:500px;   
+}
