@@ -1,9 +1,9 @@
+body{
+        background-color: rgb(160, 160, 160);
+}
 #title{
         text-align: center;
         color: rgb(17, 226, 226);
-}
-#background{
-        background-color: rgb(160, 160, 160);
 }
 #tartaglia{
         width: 50%;
